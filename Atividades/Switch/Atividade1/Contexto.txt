@@ -1,0 +1,1 @@
+Essa atividade é o código feito para o Scratch, refeito para usar Switch no lugar de Else/If.
